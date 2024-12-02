@@ -1,2 +1,2 @@
-# repository name inside the README.md file goes here
-Description goes here ...
+# html-portfolio
+Hey guys, this is the first website I'd ever programmed in my life... Love you all!!
