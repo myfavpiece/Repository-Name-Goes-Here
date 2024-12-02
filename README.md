@@ -1,3 +1,3 @@
 # html-portfolio
-Hello, this is my first website in my web development journey!!
+Hello, this is my first website in my web development journey!! \n
 I want to explain here ...
